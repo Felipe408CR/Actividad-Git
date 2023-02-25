@@ -10,3 +10,5 @@ código fuente a lo largo del tiempo. A medida que los entornos de desarrollo se
 sistemas de control de versiones ayudan a los equipos de software a trabajar de forma más rápida 
 e inteligente. Son especialmente útiles para los equipos de DevOps, ya que les ayudan a reducir 
 el tiempo de desarrollo y a aumentar las implementaciones exitosas.
+
+Escribiendo ramas. Como ignorar archivos para no ser comprometidos en el área de trabajo
