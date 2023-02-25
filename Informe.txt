@@ -1,0 +1,1 @@
+Lo que vimos la clase pasada fueron las principales funciones del git desde la consola donde podemos iniciar a crear un proyeco eliminar agregarar cambios en especifico y listar los archivos que se tienen en el proyecto

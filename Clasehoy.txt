@@ -1,0 +1,2 @@
+Los temas tratados del dia de hoy fue como pasar de una rama a otra y como crear dicha rama, 
+ademas de visualizar cuales fueron los cambios en especifico los cuales fueron agregados al proyecto
